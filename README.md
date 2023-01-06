@@ -11,7 +11,11 @@ Rangkaian dan Hasil Percobaan
 
 
 
-https://user-images.githubusercontent.com/121012286/210361729-d527e46d-7772-4977-ac7a-4ead799d7362.mp4
+
+https://user-images.githubusercontent.com/41616849/210999497-3a1ea88e-5f73-446c-bac0-7f7f9d43330d.mp4
+
+
+
 
 Berdasarkan hasil percobaan di atas, memiliki output yang sudah sesuai dengan program yang telah di input, di mana lampu LED pada rangkaian akan on (menyala) dan of (mati) apabila tombol pada website diklik, dalam artian menyala atau matinya lampu LED pada rangkaian mengikuti perintah dari website cayenne (membuat akun cayenne).
 
